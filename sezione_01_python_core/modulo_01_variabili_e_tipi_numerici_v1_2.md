@@ -306,3 +306,8 @@ A. Per rendere il codice più lungo
 B. Perché Python richiede le unità  
 C. Per evitare ambiguità fisiche e decisioni errate  
 D. Per migliorare le prestazioni
+
+
+📘 Notebook interattivo (Colab)  
+👉 Apri in Colab:  
+https://colab.research.google.com/github/giruffo/python-for-process-engineers/blob/main/notebooks/sezione_01_python_core/M01_variabili.ipynb
